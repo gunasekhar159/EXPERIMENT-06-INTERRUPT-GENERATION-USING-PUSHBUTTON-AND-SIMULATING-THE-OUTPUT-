@@ -85,10 +85,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
-## CIRCUIT DIAGRAM
- <img width="557" alt="g" src="https://github.com/gunasekhar159/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/95043391/941c9190-468d-4fc5-a1d2-91c93f2ce378">
- 
-
 ## STM 32 CUBE PROGRAM :
 ```
 Developed By:M.GUNASEKHAR.
@@ -205,8 +201,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 <img width="559" alt="6A" src="https://github.com/gunasekhar159/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/95043391/4bb89408-79b9-4344-b2c3-462a90318579">
-<img width="556" alt="6B" src="https://github.com/gunasekhar159/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/95043391/7753cfc7-e800-4fff-9b07-3c98fc6fcc40">
-
+ <img width="557" alt="g" src="https://github.com/gunasekhar159/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/95043391/941c9190-468d-4fc5-a1d2-91c93f2ce378">
+ 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
